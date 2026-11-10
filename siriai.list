@@ -7,6 +7,8 @@ DOMAIN,guzzoni.apple.com
 DOMAIN,mask.apple-dns.net
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask-t.apple-dns.net
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
 
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,apps.mzstatic.com
